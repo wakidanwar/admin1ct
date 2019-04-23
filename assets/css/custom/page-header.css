@@ -1,0 +1,11 @@
+.page-header {
+    background-image: url("https://srilankafoundation.org/wp-content/uploads/2016/07/Beach.jpg") ;
+    -webkit-background-size: cover; /* For WebKit*/
+    -moz-background-size: cover;    /* Mozilla*/
+    -o-background-size: cover;      /* Opera*/
+    background-size: 100% ;
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100%;
+    margin: auto;
+    }

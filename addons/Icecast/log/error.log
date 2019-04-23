@@ -1,0 +1,86 @@
+[2019-04-14  08:43:36] INFO main/main.c Icecast 2.4.4 server started
+[2019-04-14  08:43:36] INFO yp/yp.c YP update thread started
+[2019-04-14  08:43:37] INFO connection/connection.c No SSL capability on any configured ports
+[2019-04-14  08:45:31] INFO fserve/fserve.c checking for file /style.css (./web/style.css)
+[2019-04-14  08:45:31] INFO fserve/fserve.c checking for file /favicon.ico (./web/favicon.ico)
+[2019-04-14  08:45:31] WARN fserve/fserve.c req for file "./web/favicon.ico" No such file or directory
+[2019-04-14  08:45:31] INFO fserve/fserve.c checking for file /icecast.png (./web/icecast.png)
+[2019-04-14  08:49:04] INFO main/main.c Icecast 2.4.4 server started
+[2019-04-14  08:49:04] INFO stats/stats.c stats thread started
+[2019-04-14  08:49:04] INFO yp/yp.c YP update thread started
+[2019-04-14  08:49:04] INFO connection/connection.c No SSL capability on any configured ports
+[2019-04-14  08:54:37] INFO stats/stats.c stats thread started
+[2019-04-14  08:54:37] INFO main/main.c Icecast 2.4.4 server started
+[2019-04-14  08:54:37] INFO yp/yp.c YP update thread started
+[2019-04-14  08:54:38] INFO connection/connection.c No SSL capability on any configured ports
+[2019-04-14  09:11:18] INFO main/main.c Icecast 2.4.4 server started
+[2019-04-14  09:11:18] INFO stats/stats.c stats thread started
+[2019-04-14  09:11:18] INFO yp/yp.c YP update thread started
+[2019-04-14  09:11:18] INFO connection/connection.c No SSL capability on any configured ports
+[2019-04-14  09:14:24] INFO main/main.c Icecast 2.4.4 server started
+[2019-04-14  09:14:24] INFO yp/yp.c YP update thread started
+[2019-04-14  09:14:24] INFO connection/connection.c No SSL capability on any configured ports
+[2019-04-14  09:15:10] INFO fserve/fserve.c checking for file /style.css (./web/style.css)
+[2019-04-14  09:15:10] INFO fserve/fserve.c checking for file /icecast.png (./web/icecast.png)
+[2019-04-14  09:15:12] INFO admin/admin.c Bad or missing password on admin command request (command: )
+[2019-04-14  09:15:16] INFO fserve/fserve.c checking for file /style.css (./web/style.css)
+[2019-04-14  09:15:17] INFO fserve/fserve.c checking for file /style.css (./web/style.css)
+[2019-04-14  09:15:17] INFO fserve/fserve.c checking for file /icecast.png (./web/icecast.png)
+[2019-04-14  09:15:54] INFO admin/admin.c Bad or missing password on admin command request (command: )
+[2019-04-14  09:16:02] INFO admin/admin.c Bad or missing password on admin command request (command: )
+[2019-04-14  09:16:06] INFO fserve/fserve.c checking for file /style.css (./web/style.css)
+[2019-04-14  09:16:20] INFO fserve/fserve.c checking for file /style.css (./web/style.css)
+[2019-04-14  09:16:25] INFO fserve/fserve.c checking for file /style.css (./web/style.css)
+[2019-04-14  09:16:27] INFO fserve/fserve.c checking for file /style.css (./web/style.css)
+[2019-04-14  09:17:25] INFO fserve/fserve.c checking for file /style.css (./web/style.css)
+[2019-04-14  09:20:16] INFO fserve/fserve.c checking for file /style.css (./web/style.css)
+[2019-04-14  09:20:18] INFO fserve/fserve.c checking for file /style.css (./web/style.css)
+[2019-04-14  09:20:41] INFO main/main.c Icecast 2.4.4 server started
+[2019-04-14  09:20:41] INFO yp/yp.c YP update thread started
+[2019-04-14  09:20:42] INFO connection/connection.c No SSL capability on any configured ports
+[2019-04-14  09:20:51] INFO fserve/fserve.c checking for file /style.css (./web/style.css)
+[2019-04-14  09:20:54] INFO fserve/fserve.c checking for file /style.css (./web/style.css)
+[2019-04-14  09:22:42] INFO main/main.c Icecast 2.4.4 server started
+[2019-04-14  09:22:42] INFO yp/yp.c YP update thread started
+[2019-04-14  09:22:42] INFO connection/connection.c No SSL capability on any configured ports
+[2019-04-14  09:25:13] INFO main/main.c Icecast 2.4.4 server started
+[2019-04-14  09:25:13] INFO yp/yp.c YP update thread started
+[2019-04-14  09:25:13] INFO connection/connection.c No SSL capability on any configured ports
+[2019-04-14  09:25:23] INFO fserve/fserve.c checking for file /style.css (./web/style.css)
+[2019-04-14  09:30:45] INFO main/main.c Icecast 2.4.4 server started
+[2019-04-14  09:30:45] INFO yp/yp.c YP update thread started
+[2019-04-14  09:30:45] INFO connection/connection.c No SSL capability on any configured ports
+[2019-04-14  09:00:46] INFO main/main.c Icecast 2.4.4 server started
+[2019-04-14  09:00:46] INFO yp/yp.c YP update thread started
+[2019-04-14  09:00:47] INFO connection/connection.c No SSL capability on any configured ports
+[2019-04-15  19:12:57] INFO main/main.c Icecast 2.4.4 server started
+[2019-04-15  19:12:58] INFO yp/yp.c YP update thread started
+[2019-04-15  19:12:58] INFO connection/connection.c No SSL capability on any configured ports
+[2019-04-15  19:13:24] INFO main/main.c Icecast 2.4.4 server started
+[2019-04-15  19:13:24] INFO stats/stats.c stats thread started
+[2019-04-15  19:13:24] INFO yp/yp.c YP update thread started
+[2019-04-15  19:13:24] INFO connection/connection.c No SSL capability on any configured ports
+[2019-04-15  19:14:28] INFO main/main.c Icecast 2.4.4 server started
+[2019-04-15  19:14:28] INFO stats/stats.c stats thread started
+[2019-04-15  19:14:28] INFO yp/yp.c YP update thread started
+[2019-04-15  19:14:28] INFO connection/connection.c No SSL capability on any configured ports
+[2019-04-15  19:37:21] INFO stats/stats.c stats thread started
+[2019-04-15  19:37:21] INFO main/main.c Icecast 2.4.4 server started
+[2019-04-15  19:37:21] INFO yp/yp.c YP update thread started
+[2019-04-15  19:37:21] INFO connection/connection.c No SSL capability on any configured ports
+[2019-04-15  19:37:50] INFO fserve/fserve.c checking for file /style.css (./web/style.css)
+[2019-04-15  19:37:50] INFO fserve/fserve.c checking for file /icecast.png (./web/icecast.png)
+[2019-04-15  19:37:50] INFO fserve/fserve.c checking for file /favicon.ico (./web/favicon.ico)
+[2019-04-15  19:37:50] WARN fserve/fserve.c req for file "./web/favicon.ico" No such file or directory
+[2019-04-15  19:38:12] INFO fserve/fserve.c checking for file /style.css (./web/style.css)
+[2019-04-15  19:38:12] INFO fserve/fserve.c checking for file /icecast.png (./web/icecast.png)
+[2019-04-15  19:38:12] INFO fserve/fserve.c checking for file /favicon.ico (./web/favicon.ico)
+[2019-04-15  19:38:12] WARN fserve/fserve.c req for file "./web/favicon.ico" No such file or directory
+[2019-04-15  20:40:49] INFO main/main.c Icecast 2.4.4 server started
+[2019-04-15  20:40:49] INFO stats/stats.c stats thread started
+[2019-04-15  20:40:49] INFO yp/yp.c YP update thread started
+[2019-04-15  20:40:50] INFO connection/connection.c No SSL capability on any configured ports
+[2019-04-15  20:43:40] INFO main/main.c Icecast 2.4.4 server started
+[2019-04-15  20:43:40] INFO stats/stats.c stats thread started
+[2019-04-15  20:43:40] INFO yp/yp.c YP update thread started
+[2019-04-15  20:43:40] INFO connection/connection.c No SSL capability on any configured ports
